@@ -4,6 +4,10 @@
         {
             "url": "https://github.com/rossyc/Resources/blob/main/test.yaml",
             "name": "Foo"
+        },
+        {
+            "url": "https://github.com/rossyc/Resources/blob/main/test1.yaml",
+            "name": "Fo"
         }
     ]
 }
